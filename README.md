@@ -31,7 +31,6 @@ Here are some of the tools and languages I have experience with and use in proje
 
 ## 👨🏿‍💻Currently Working On..
 <h1>Personal Website</h1>
-<img align="centre" alt="Personal Website - Project" style="padding-right:10px;" src="PersonalWebsite.png" />
 
 ## 📊 GitHub Stats
 ![Wech's GitHub stats](https://github-readme-stats.vercel.app/api?username=wechring&show_icons=true&theme=gruvbox)
