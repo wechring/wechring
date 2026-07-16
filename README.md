@@ -8,11 +8,12 @@ I build software that helps us understand people. Computer Science & Behavioral 
 
 ---
 
-## 🔭 What I'm working on
+## 🔭 Currently working on
 
+- 🌐 **[My personal website](https://wechring.github.io)** — a full portfolio redesign, built from scratch ([source](https://github.com/wechring/wechring.github.io))
 - 🧪 A Python (oTree) platform running multi-condition behavioral experiments end to end — randomization, real-time validation, messaging
 - 🚀 A startup collaboration platform in Next.js + Firebase with a real-time social feed
-- 📈 An AI trading assistant using FinBERT sentiment analysis, backtested on 4 years of market data
+- 🧠 Grinding algorithm practice — [my NeetCode submissions](https://github.com/wechring/neetcode-submissions)
 
 ## 🧰 Languages & Tools
 
@@ -47,10 +48,19 @@ I build software that helps us understand people. Computer Science & Behavioral 
 
 | Project | Description | Stack |
 |---|---|---|
+| **[AI Trading Assistant](https://github.com/wechring/AI-Driven-Trading-Bot)** | Algorithmic trading bot with FinBERT news sentiment, risk management, and multi-year backtests | Python · PyTorch · Alpaca API |
 | **Startup Collaboration Platform** | Publish startup ideas, tag needed roles, and recruit collaborators through a real-time social feed | Next.js · TypeScript · Firebase |
-| **AI Trading Assistant** | Algorithmic trading bot with FinBERT news sentiment, risk management, and 4-year backtests | Python · PyTorch · Alpaca API |
 | **Online Experiment Platform** | Multi-condition behavioral experiments at scale — 1,000+ participants | Python · oTree · SQLite |
-| **Interactive Historical Timeline** | Educational web app spanning 400+ years of historical data | JavaScript · HTML/CSS |
+| **[Personal Website](https://github.com/wechring/wechring.github.io)** | This portfolio — designed and built from scratch, hosted on GitHub Pages | HTML · CSS · JavaScript |
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="Wech's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=wechring&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=c9a96e&icon_color=c9a96e&text_color=e8e6e0" />
+</p>
+<p align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wechring&layout=compact&hide_border=true&bg_color=0a0a0f&title_color=c9a96e&text_color=e8e6e0" />
+</p>
 
 ## 🤝 Beyond the code
 
@@ -59,9 +69,3 @@ Executive board member of the **National Society of Black Engineers (NSBE)** —
 ---
 
 <p align="center"><i>Open to full-stack software engineering roles — let's <a href="https://wechring.github.io/contact-me">talk</a>.</i></p>
-
-## 👨🏿‍💻Currently Working On..
-<h1>Personal Website</h1>
-
-## 📊 GitHub Stats
-![Wech's GitHub stats](https://github-readme-stats.vercel.app/api?username=wechring&show_icons=true&theme=gruvbox)
